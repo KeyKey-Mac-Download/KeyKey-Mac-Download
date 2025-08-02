@@ -1,6 +1,6 @@
 # KeyKey for Mac – Typing Trainer & Keyboard Tutor
 
-![KeyKey Screenshot](https://static.macupdate.com/screenshots/249135/m/keykey-screenshot.png?v=1662619030)
+![KeyKey Screenshot](https://ph-files.imgix.net/bbf1b66a-c8d8-4b7b-b016-caf847b382fb.png?auto=format&fit=crop&frame=1&h=512&w=1024)
 
 ## 📥 Download KeyKey for macOS
 
